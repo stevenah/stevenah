@@ -1,4 +1,4 @@
-### 👋
+### Hi 👋
 
 I'm Steven Hicks—a researcher and developer based in Oslo, Norway. Welcome to my GitHub page!
 
